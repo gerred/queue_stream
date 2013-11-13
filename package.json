@@ -15,7 +15,9 @@
     "stream"
   ],
   "authors": [
-    ],
+      "Gerred Dillon <hello@gerred.com>",
+      "Noah Isaacson <noah@nisaacson.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gerred/queue_stream/issues"
