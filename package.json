@@ -1,0 +1,27 @@
+{
+  "name": "queue_stream",
+  "version": "0.0.0",
+  "description": "queue_stream ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gerred/queue_stream.git"
+  },
+  "keywords": [
+    "queue",
+    "stream"
+  ],
+  "authors": [
+    ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerred/queue_stream/issues"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest"
+  }
+}
