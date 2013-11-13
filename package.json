@@ -1,6 +1,6 @@
 {
   "name": "queue_stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "queue_stream ============",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,8 @@
     "stream"
   ],
   "authors": [
-      "Gerred Dillon <hello@gerred.com>",
-      "Noah Isaacson <noah@nisaacson.com>"
+    "Gerred Dillon <hello@gerred.com>",
+    "Noah Isaacson <noah@nisaacson.com>"
   ],
   "license": "MIT",
   "bugs": {
